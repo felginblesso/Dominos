@@ -1,0 +1,578 @@
+pizza_name_id,pizza_size,pizza_ingredients,Total_Required_Quantity_Grams
+bbq_ckn_l,L,Barbecue Sauce,316.03489398052017
+bbq_ckn_l,L,Barbecued Chicken,842.7597172813871
+bbq_ckn_l,L,Green Peppers,421.37985864069356
+bbq_ckn_l,L,Red Onions,1264.1395759220807
+bbq_ckn_l,L,Red Peppers,316.03489398052017
+bbq_ckn_l,L,Tomatoes,632.0697879610403
+bbq_ckn_m,L,Barbecue Sauce,0.21260335955635395
+bbq_ckn_m,L,Barbecued Chicken,0.6378100786690619
+bbq_ckn_m,L,Green Peppers,0.31890503933453096
+bbq_ckn_m,L,Red Onions,0.8504134382254158
+bbq_ckn_m,L,Red Peppers,0.21260335955635395
+bbq_ckn_m,L,Tomatoes,0.4252067191127079
+bbq_ckn_m,M,Barbecue Sauce,203.2488117358744
+bbq_ckn_m,M,Barbecued Chicken,609.7464352076232
+bbq_ckn_m,M,Green Peppers,304.8732176038116
+bbq_ckn_m,M,Red Onions,812.9952469434976
+bbq_ckn_m,M,Red Peppers,203.2488117358744
+bbq_ckn_m,M,Tomatoes,406.4976234717488
+bbq_ckn_s,S,Barbecue Sauce,51.450013012637655
+bbq_ckn_s,S,Barbecued Chicken,205.80005205055062
+bbq_ckn_s,S,Green Peppers,205.80005205055062
+bbq_ckn_s,S,Red Onions,205.80005205055062
+bbq_ckn_s,S,Red Peppers,51.450013012637655
+bbq_ckn_s,S,Tomatoes,102.90002602527531
+big_meat_s,S,Bacon,6103.842452862922
+big_meat_s,S,Chorizo Sausage,2034.6141509543074
+big_meat_s,S,Italian Sausage,406.9228301908615
+big_meat_s,S,Pepperoni,2034.6141509543074
+brie_carre_s,S,Brie Carre Cheese,312.52693854784036
+brie_carre_s,S,Caramelized Onions,0.0
+brie_carre_s,S,Garlic,52.087823091306724
+brie_carre_s,S,Pears,104.17564618261345
+brie_carre_s,S,Prosciutto,312.52693854784036
+brie_carre_s,S,Thyme,52.087823091306724
+calabrese_l,L,?duja Salami,352.0711634253222
+calabrese_l,L,Friggitello Peppers,88.01779085633055
+calabrese_l,L,Garlic,88.01779085633055
+calabrese_l,L,Pancetta,528.1067451379832
+calabrese_l,L,Red Onions,352.0711634253222
+calabrese_l,L,Tomatoes,176.0355817126611
+calabrese_m,M,?duja Salami,477.9323522826837
+calabrese_m,M,Friggitello Peppers,119.48308807067093
+calabrese_m,M,Garlic,119.48308807067093
+calabrese_m,M,Pancetta,716.8985284240256
+calabrese_m,M,Red Onions,477.9323522826837
+calabrese_m,M,Tomatoes,238.96617614134186
+calabrese_s,S,?duja Salami,42.09546519215809
+calabrese_s,S,Friggitello Peppers,10.523866298039522
+calabrese_s,S,Garlic,10.523866298039522
+calabrese_s,S,Pancetta,63.14319778823713
+calabrese_s,S,Red Onions,42.09546519215809
+calabrese_s,S,Tomatoes,21.047732596079044
+cali_ckn_l,L,Artichokes,393.74142189836755
+cali_ckn_l,L,Chicken,2953.0606642377566
+cali_ckn_l,L,Fontina Cheese,590.6121328475513
+cali_ckn_l,L,Garlic,295.30606642377563
+cali_ckn_l,L,Gouda Cheese,590.6121328475513
+cali_ckn_l,L,Jalapeno Peppers,295.30606642377563
+cali_ckn_l,L,Spinach,885.9181992713269
+cali_ckn_m,M,Artichokes,301.0463571317972
+cali_ckn_m,M,Chicken,2006.9757142119815
+cali_ckn_m,M,Fontina Cheese,401.3951428423963
+cali_ckn_m,M,Garlic,200.69757142119815
+cali_ckn_m,M,Gouda Cheese,401.3951428423963
+cali_ckn_m,M,Jalapeno Peppers,200.69757142119815
+cali_ckn_m,M,Spinach,602.0927142635944
+cali_ckn_s,L,Artichokes,0.21260335955635395
+cali_ckn_s,L,Chicken,1.0630167977817697
+cali_ckn_s,L,Fontina Cheese,0.21260335955635395
+cali_ckn_s,L,Garlic,0.10630167977817698
+cali_ckn_s,L,Gouda Cheese,0.21260335955635395
+cali_ckn_s,L,Jalapeno Peppers,0.10630167977817698
+cali_ckn_s,L,Spinach,0.31890503933453096
+cali_ckn_s,S,Artichokes,106.08907641862062
+cali_ckn_s,S,Chicken,530.4453820931031
+cali_ckn_s,S,Fontina Cheese,106.08907641862062
+cali_ckn_s,S,Garlic,53.04453820931031
+cali_ckn_s,S,Gouda Cheese,106.08907641862062
+cali_ckn_s,S,Jalapeno Peppers,53.04453820931031
+cali_ckn_s,S,Spinach,159.13361462793094
+ckn_alfredo_l,L,Alfredo Sauce,79.93886319318909
+ckn_alfredo_l,L,Asiago Cheese,119.90829478978365
+ckn_alfredo_l,L,Chicken,599.5414739489182
+ckn_alfredo_l,L,Mushrooms,239.8165895795673
+ckn_alfredo_l,L,Red Onions,239.8165895795673
+ckn_alfredo_l,L,Red Peppers,59.95414739489183
+ckn_alfredo_m,M,Alfredo Sauce,224.19024265217527
+ckn_alfredo_m,M,Asiago Cheese,298.9203235362337
+ckn_alfredo_m,M,Chicken,1494.6016176811686
+ckn_alfredo_m,M,Mushrooms,597.8406470724674
+ckn_alfredo_m,M,Red Onions,597.8406470724674
+ckn_alfredo_m,M,Red Peppers,149.46016176811685
+ckn_alfredo_s,S,Alfredo Sauce,20.40992251740998
+ckn_alfredo_s,S,Asiago Cheese,20.40992251740998
+ckn_alfredo_s,S,Chicken,102.0496125870499
+ckn_alfredo_s,S,Mushrooms,40.81984503481996
+ckn_alfredo_s,S,Red Onions,40.81984503481996
+ckn_alfredo_s,S,Red Peppers,10.20496125870499
+ckn_pesto_l,L,Chicken,1272.4311069447785
+ckn_pesto_l,L,Garlic,127.24311069447785
+ckn_pesto_l,L,Pesto Sauce,254.4862213889557
+ckn_pesto_l,L,Red Peppers,127.24311069447785
+ckn_pesto_l,L,Spinach,381.7293320834335
+ckn_pesto_l,L,Tomatoes,254.4862213889557
+ckn_pesto_m,M,Chicken,586.7852723755369
+ckn_pesto_m,M,Garlic,58.678527237553695
+ckn_pesto_m,M,Pesto Sauce,117.35705447510739
+ckn_pesto_m,M,Red Peppers,58.678527237553695
+ckn_pesto_m,M,Spinach,176.0355817126611
+ckn_pesto_m,M,Tomatoes,117.35705447510739
+ckn_pesto_s,S,Chicken,316.7790057389674
+ckn_pesto_s,S,Garlic,31.67790057389674
+ckn_pesto_s,S,Pesto Sauce,63.35580114779348
+ckn_pesto_s,S,Red Peppers,31.67790057389674
+ckn_pesto_s,S,Spinach,95.03370172169022
+ckn_pesto_s,S,Tomatoes,63.35580114779348
+classic_dlx_l,L,Bacon,1206.7366688418651
+classic_dlx_l,L,Mushrooms,603.3683344209326
+classic_dlx_l,L,Pepperoni,603.3683344209326
+classic_dlx_l,L,Red Onions,603.3683344209326
+classic_dlx_l,L,Red Peppers,150.84208360523314
+classic_dlx_m,M,Bacon,2510.8456763605404
+classic_dlx_m,M,Mushrooms,1004.3382705442161
+classic_dlx_m,M,Pepperoni,1004.3382705442161
+classic_dlx_m,M,Red Onions,1004.3382705442161
+classic_dlx_m,M,Red Peppers,251.08456763605403
+classic_dlx_s,S,Bacon,849.350421427634
+classic_dlx_s,S,Mushrooms,339.74016857105363
+classic_dlx_s,S,Pepperoni,339.74016857105363
+classic_dlx_s,S,Red Onions,339.74016857105363
+classic_dlx_s,S,Red Peppers,84.93504214276341
+five_cheese_l,L,Blue Cheese,898.6744008447081
+five_cheese_l,L,Garlic,449.33720042235404
+five_cheese_l,L,Mozzarella Cheese,898.6744008447081
+five_cheese_l,L,Provolone Cheese,898.6744008447081
+five_cheese_l,L,Romano Cheese,898.6744008447081
+five_cheese_l,L,Smoked Gouda Cheese,898.6744008447081
+four_cheese_l,L,Garlic,419.6790317642428
+four_cheese_l,L,Gorgonzola Piccante Cheese,1119.1440847046474
+four_cheese_l,L,Mozzarella Cheese,559.5720423523237
+four_cheese_l,L,Parmigiano Reggiano Cheese,2518.0741905854566
+four_cheese_l,L,Ricotta Cheese,1398.9301058808092
+four_cheese_m,M,Garlic,124.58556870002342
+four_cheese_m,M,Gorgonzola Piccante Cheese,249.17113740004683
+four_cheese_m,M,Mozzarella Cheese,124.58556870002342
+four_cheese_m,M,Parmigiano Reggiano Cheese,747.5134122001405
+four_cheese_m,M,Ricotta Cheese,311.46392175005855
+green_garden_l,L,Feta Cheese,80.78927663141451
+green_garden_l,L,Green Olives,30.29597873678044
+green_garden_l,L,Mushrooms,121.18391494712176
+green_garden_l,L,Spinach,90.88793621034132
+green_garden_l,L,Tomatoes,60.59195747356088
+green_garden_m,M,Feta Cheese,128.41242917203778
+green_garden_m,M,Green Olives,64.20621458601889
+green_garden_m,M,Mushrooms,256.82485834407555
+green_garden_m,M,Spinach,192.6186437580567
+green_garden_m,M,Tomatoes,128.41242917203778
+green_garden_m,S,Feta Cheese,0.4252067191127079
+green_garden_m,S,Green Olives,0.21260335955635395
+green_garden_m,S,Mushrooms,0.8504134382254158
+green_garden_m,S,Spinach,0.6378100786690619
+green_garden_m,S,Tomatoes,0.4252067191127079
+green_garden_s,S,Feta Cheese,127.34941237425602
+green_garden_s,S,Green Olives,63.67470618712801
+green_garden_s,S,Mushrooms,254.69882474851204
+green_garden_s,S,Spinach,191.02411856138403
+green_garden_s,S,Tomatoes,127.34941237425602
+hawaiian_l,L,Mozzarella Cheese,586.147462296868
+hawaiian_l,L,Pineapple,879.2211934453019
+hawaiian_l,L,Sliced Ham,0.0
+hawaiian_m,M,Mozzarella Cheese,205.37484533143794
+hawaiian_m,M,Pineapple,308.0622679971569
+hawaiian_m,M,Sliced Ham,0.0
+hawaiian_s,S,Mozzarella Cheese,216.85542674748106
+hawaiian_s,S,Pineapple,325.2831401212216
+hawaiian_s,S,Sliced Ham,0.0
+ital_cpcllo_l,L,Capocollo,2334.3848879287666
+ital_cpcllo_l,L,Garlic,233.43848879287668
+ital_cpcllo_l,L,Goat Cheese,933.7539551715067
+ital_cpcllo_l,L,Oregano,233.43848879287668
+ital_cpcllo_l,L,Red Peppers,233.43848879287668
+ital_cpcllo_l,L,Tomatoes,466.87697758575337
+ital_cpcllo_m,M,Capocollo,858.91757260767
+ital_cpcllo_m,M,Garlic,85.89175726076701
+ital_cpcllo_m,M,Goat Cheese,343.56702904306803
+ital_cpcllo_m,M,Oregano,85.89175726076701
+ital_cpcllo_m,M,Red Peppers,85.89175726076701
+ital_cpcllo_m,M,Tomatoes,171.78351452153402
+ital_cpcllo_s,S,Capocollo,321.03107293009447
+ital_cpcllo_s,S,Garlic,32.103107293009444
+ital_cpcllo_s,S,Goat Cheese,128.41242917203778
+ital_cpcllo_s,S,Oregano,32.103107293009444
+ital_cpcllo_s,S,Red Peppers,32.103107293009444
+ital_cpcllo_s,S,Tomatoes,64.20621458601889
+ital_supr_l,L,Calabrese Salami,2379.031593435601
+ital_supr_l,L,Capocollo,2379.031593435601
+ital_supr_l,L,Garlic,237.9031593435601
+ital_supr_l,L,Green Olives,237.9031593435601
+ital_supr_l,L,Red Onions,951.6126373742404
+ital_supr_l,L,Tomatoes,475.8063186871202
+ital_supr_m,M,Calabrese Salami,2000.5976134252908
+ital_supr_m,M,Capocollo,2000.5976134252908
+ital_supr_m,M,Garlic,200.05976134252907
+ital_supr_m,M,Green Olives,200.05976134252907
+ital_supr_m,M,Red Onions,800.2390453701163
+ital_supr_m,M,Tomatoes,400.11952268505814
+ital_supr_s,L,Calabrese Salami,1.0630167977817697
+ital_supr_s,L,Capocollo,1.0630167977817697
+ital_supr_s,L,Garlic,0.10630167977817698
+ital_supr_s,L,Green Olives,0.10630167977817698
+ital_supr_s,L,Red Onions,0.4252067191127079
+ital_supr_s,L,Tomatoes,0.21260335955635395
+ital_supr_s,S,Calabrese Salami,208.35129236522687
+ital_supr_s,S,Capocollo,208.35129236522687
+ital_supr_s,S,Garlic,20.835129236522686
+ital_supr_s,S,Green Olives,20.835129236522686
+ital_supr_s,S,Red Onions,83.34051694609074
+ital_supr_s,S,Tomatoes,41.67025847304537
+ital_veggie_l,L,Artichokes,80.78927663141451
+ital_veggie_l,L,Eggplant,242.36782989424353
+ital_veggie_l,L,Garlic,60.59195747356088
+ital_veggie_l,L,Pesto Sauce,121.18391494712176
+ital_veggie_l,L,Red Peppers,60.59195747356088
+ital_veggie_l,L,Tomatoes,121.18391494712176
+ital_veggie_l,L,Zucchini,121.18391494712176
+ital_veggie_m,M,Artichokes,154.98784911658203
+ital_veggie_m,M,Eggplant,413.30093097755207
+ital_veggie_m,M,Garlic,103.32523274438802
+ital_veggie_m,M,Pesto Sauce,206.65046548877604
+ital_veggie_m,M,Red Peppers,103.32523274438802
+ital_veggie_m,M,Tomatoes,206.65046548877604
+ital_veggie_m,M,Zucchini,206.65046548877604
+ital_veggie_s,S,Artichokes,64.84402466468796
+ital_veggie_s,S,Eggplant,129.68804932937593
+ital_veggie_s,S,Garlic,32.42201233234398
+ital_veggie_s,S,Pesto Sauce,64.84402466468796
+ital_veggie_s,S,Red Peppers,32.42201233234398
+ital_veggie_s,S,Tomatoes,64.84402466468796
+ital_veggie_s,S,Zucchini,64.84402466468796
+mediterraneo_l,L,Artichokes,157.32648607170194
+mediterraneo_l,L,Feta Cheese,314.6529721434039
+mediterraneo_l,L,Kalamata Olives,117.99486455377644
+mediterraneo_l,L,Plum Tomatoes,471.97945821510575
+mediterraneo_l,L,Red Onions,471.97945821510575
+mediterraneo_l,L,Spinach,353.9845936613293
+mediterraneo_l,L,Sun-dried Tomatoes,117.99486455377644
+mediterraneo_m,M,Artichokes,87.69888581699601
+mediterraneo_m,M,Feta Cheese,116.93184775599468
+mediterraneo_m,M,Kalamata Olives,58.46592387799734
+mediterraneo_m,M,Plum Tomatoes,233.86369551198936
+mediterraneo_m,M,Red Onions,233.86369551198936
+mediterraneo_m,M,Spinach,175.39777163399202
+mediterraneo_m,M,Sun-dried Tomatoes,58.46592387799734
+mediterraneo_s,S,Artichokes,61.442370911786305
+mediterraneo_s,S,Feta Cheese,61.442370911786305
+mediterraneo_s,S,Kalamata Olives,30.721185455893153
+mediterraneo_s,S,Plum Tomatoes,122.88474182357261
+mediterraneo_s,S,Red Onions,122.88474182357261
+mediterraneo_s,S,Spinach,92.16355636767946
+mediterraneo_s,S,Sun-dried Tomatoes,30.721185455893153
+mexicana_l,L,Chipotle Sauce,552.9813382060767
+mexicana_l,L,Cilantro,276.49066910303833
+mexicana_l,L,Corn,1843.271127353589
+mexicana_l,L,Garlic,276.49066910303833
+mexicana_l,L,Jalapeno Peppers,276.49066910303833
+mexicana_l,L,Red Onions,1105.9626764121533
+mexicana_l,L,Red Peppers,276.49066910303833
+mexicana_l,L,Tomatoes,552.9813382060767
+mexicana_m,M,Chipotle Sauce,193.4690571962821
+mexicana_m,M,Cilantro,96.73452859814105
+mexicana_m,M,Corn,677.1417001869874
+mexicana_m,M,Garlic,96.73452859814105
+mexicana_m,M,Jalapeno Peppers,96.73452859814105
+mexicana_m,M,Red Onions,386.9381143925642
+mexicana_m,M,Red Peppers,96.73452859814105
+mexicana_m,M,Tomatoes,193.4690571962821
+mexicana_s,S,Chipotle Sauce,34.44174424812934
+mexicana_s,S,Cilantro,17.22087212406467
+mexicana_s,S,Corn,103.32523274438802
+mexicana_s,S,Garlic,17.22087212406467
+mexicana_s,S,Jalapeno Peppers,17.22087212406467
+mexicana_s,S,Red Onions,68.88348849625868
+mexicana_s,S,Red Peppers,17.22087212406467
+mexicana_s,S,Tomatoes,34.44174424812934
+napolitana_l,L,Anchovies,481.3340060355854
+napolitana_l,L,Garlic,180.50025226334452
+napolitana_l,L,Green Olives,180.50025226334452
+napolitana_l,L,Red Onions,722.0010090533781
+napolitana_l,L,Tomatoes,361.00050452668904
+napolitana_m,M,Anchovies,272.34490359168944
+napolitana_m,M,Garlic,90.78163453056314
+napolitana_m,M,Green Olives,90.78163453056314
+napolitana_m,M,Red Onions,363.12653812225255
+napolitana_m,M,Tomatoes,181.56326906112628
+napolitana_m,S,Anchovies,1.2756201573381238
+napolitana_m,S,Garlic,0.4252067191127079
+napolitana_m,S,Green Olives,0.4252067191127079
+napolitana_m,S,Red Onions,1.7008268764508316
+napolitana_m,S,Tomatoes,0.8504134382254158
+napolitana_s,S,Anchovies,149.56646344789502
+napolitana_s,S,Garlic,49.855487815965006
+napolitana_s,S,Green Olives,49.855487815965006
+napolitana_s,S,Red Onions,199.42195126386002
+napolitana_s,S,Tomatoes,99.71097563193001
+pep_msh_pep_l,L,Green Peppers,163.27938013927985
+pep_msh_pep_l,L,Mushrooms,489.8381404178395
+pep_msh_pep_l,L,Pepperoni,489.8381404178395
+pep_msh_pep_m,M,Green Peppers,126.60530061580877
+pep_msh_pep_m,M,Mushrooms,337.61413497549006
+pep_msh_pep_m,M,Pepperoni,337.61413497549006
+pep_msh_pep_s,S,Green Peppers,245.76948364714522
+pep_msh_pep_s,S,Mushrooms,245.76948364714522
+pep_msh_pep_s,S,Pepperoni,245.76948364714522
+pepperoni_l,L,Mozzarella Cheese,464.325737271077
+pepperoni_l,L,Pepperoni,928.651474542154
+pepperoni_m,M,Mozzarella Cheese,399.2691092468328
+pepperoni_m,M,Pepperoni,798.5382184936656
+pepperoni_s,S,Mozzarella Cheese,159.66512302682185
+pepperoni_s,S,Pepperoni,319.3302460536437
+peppr_salami_l,L,Asiago Cheese,443.91581475366706
+peppr_salami_l,L,Capocollo,2219.5790737683355
+peppr_salami_l,L,Garlic,221.95790737683353
+peppr_salami_l,L,Genoa Salami,1331.7474442610012
+peppr_salami_l,L,Pepperoni,887.8316295073341
+peppr_salami_l,L,Tomatoes,443.91581475366706
+peppr_salami_l,M,Asiago Cheese,0.6378100786690619
+peppr_salami_l,M,Capocollo,3.189050393345309
+peppr_salami_l,M,Garlic,0.31890503933453096
+peppr_salami_l,M,Genoa Salami,1.9134302360071855
+peppr_salami_l,M,Pepperoni,1.2756201573381238
+peppr_salami_l,M,Tomatoes,0.6378100786690619
+peppr_salami_m,M,Asiago Cheese,181.56326906112628
+peppr_salami_m,M,Capocollo,907.8163453056314
+peppr_salami_m,M,Garlic,90.78163453056314
+peppr_salami_m,M,Genoa Salami,544.6898071833789
+peppr_salami_m,M,Pepperoni,363.12653812225255
+peppr_salami_m,M,Tomatoes,181.56326906112628
+peppr_salami_s,S,Asiago Cheese,68.45828177714597
+peppr_salami_s,S,Capocollo,342.2914088857299
+peppr_salami_s,S,Garlic,34.229140888572985
+peppr_salami_s,S,Genoa Salami,205.37484533143794
+peppr_salami_s,S,Pepperoni,136.91656355429194
+peppr_salami_s,S,Tomatoes,68.45828177714597
+prsc_argla_l,L,Arugula,138.72369211052097
+prsc_argla_l,L,Mozzarella Cheese,277.44738422104194
+prsc_argla_l,L,Prosciutto di San Daniele,369.9298456280559
+prsc_argla_m,M,Arugula,127.1368090146997
+prsc_argla_m,M,Mozzarella Cheese,254.2736180293994
+prsc_argla_m,M,Prosciutto di San Daniele,254.2736180293994
+prsc_argla_s,S,Arugula,45.071912225947045
+prsc_argla_s,S,Mozzarella Cheese,90.14382445189409
+prsc_argla_s,S,Prosciutto di San Daniele,90.14382445189409
+sicilian_l,L,Coarse Sicilian Salami,1563.9103128965396
+sicilian_l,L,Garlic,195.48878911206745
+sicilian_l,L,Green Olives,195.48878911206745
+sicilian_l,L,Luganega Sausage,781.9551564482698
+sicilian_l,L,Onions,390.9775782241349
+sicilian_l,L,Tomatoes,390.9775782241349
+sicilian_m,M,Coarse Sicilian Salami,976.2746270827773
+sicilian_m,M,Garlic,122.03432838534717
+sicilian_m,M,Green Olives,122.03432838534717
+sicilian_m,M,Luganega Sausage,488.13731354138866
+sicilian_m,M,Onions,244.06865677069433
+sicilian_m,M,Tomatoes,244.06865677069433
+sicilian_s,S,Coarse Sicilian Salami,638.6604921072874
+sicilian_s,S,Garlic,79.83256151341092
+sicilian_s,S,Green Olives,79.83256151341092
+sicilian_s,S,Luganega Sausage,319.3302460536437
+sicilian_s,S,Onions,159.66512302682185
+sicilian_s,S,Tomatoes,159.66512302682185
+soppressata_l,L,Fontina Cheese,257.675271782301
+soppressata_l,L,Garlic,128.8376358911505
+soppressata_l,L,Mozzarella Cheese,257.675271782301
+soppressata_l,L,Mushrooms,515.350543564602
+soppressata_l,L,Soppressata Salami,1288.3763589115051
+soppressata_m,M,Fontina Cheese,113.95540072220572
+soppressata_m,M,Garlic,56.97770036110286
+soppressata_m,M,Mozzarella Cheese,113.95540072220572
+soppressata_m,M,Mushrooms,227.91080144441145
+soppressata_m,M,Soppressata Salami,569.7770036110287
+soppressata_s,L,Fontina Cheese,0.21260335955635395
+soppressata_s,L,Garlic,0.10630167977817698
+soppressata_s,L,Mozzarella Cheese,0.21260335955635395
+soppressata_s,L,Mushrooms,0.4252067191127079
+soppressata_s,L,Soppressata Salami,1.0630167977817697
+soppressata_s,S,Fontina Cheese,61.229767552229944
+soppressata_s,S,Garlic,30.614883776114972
+soppressata_s,S,Mozzarella Cheese,61.229767552229944
+soppressata_s,S,Mushrooms,122.45953510445989
+soppressata_s,S,Soppressata Salami,306.14883776114976
+southw_ckn_l,L,Chicken,3240.0751996388344
+southw_ckn_l,L,Chipotle Sauce,648.0150399277669
+southw_ckn_l,L,Cilantro,324.00751996388345
+southw_ckn_l,L,Corn,2160.0501330925563
+southw_ckn_l,L,Jalapeno Peppers,324.00751996388345
+southw_ckn_l,L,Red Onions,1296.0300798555338
+southw_ckn_l,L,Red Peppers,324.00751996388345
+southw_ckn_l,L,Tomatoes,648.0150399277669
+southw_ckn_m,M,Chicken,1135.3019400309302
+southw_ckn_m,M,Chipotle Sauce,227.06038800618603
+southw_ckn_m,M,Cilantro,113.53019400309302
+southw_ckn_m,M,Corn,794.7113580216511
+southw_ckn_m,M,Jalapeno Peppers,113.53019400309302
+southw_ckn_m,M,Red Onions,454.12077601237206
+southw_ckn_m,M,Red Peppers,113.53019400309302
+southw_ckn_m,M,Tomatoes,227.06038800618603
+southw_ckn_s,S,Chicken,390.12716478590954
+southw_ckn_s,S,Chipotle Sauce,78.0254329571819
+southw_ckn_s,S,Cilantro,39.01271647859095
+southw_ckn_s,S,Corn,234.0762988715457
+southw_ckn_s,S,Jalapeno Peppers,39.01271647859095
+southw_ckn_s,S,Red Onions,156.0508659143638
+southw_ckn_s,S,Red Peppers,39.01271647859095
+southw_ckn_s,S,Tomatoes,78.0254329571819
+spicy_ital_l,L,Artichokes,471.55425149599307
+spicy_ital_l,L,Capocollo,3536.6568862199483
+spicy_ital_l,L,Garlic,353.66568862199483
+spicy_ital_l,L,Goat Cheese,1414.6627544879793
+spicy_ital_l,L,Peperoncini verdi,353.66568862199483
+spicy_ital_l,L,Tomatoes,707.3313772439897
+spicy_ital_m,M,Artichokes,130.1132560484886
+spicy_ital_m,M,Capocollo,867.421706989924
+spicy_ital_m,M,Garlic,86.74217069899241
+spicy_ital_m,M,Goat Cheese,346.96868279596964
+spicy_ital_m,M,Peperoncini verdi,86.74217069899241
+spicy_ital_m,M,Tomatoes,173.48434139798482
+spicy_ital_s,S,Artichokes,86.52956733943606
+spicy_ital_s,S,Capocollo,432.6478366971803
+spicy_ital_s,S,Garlic,43.26478366971803
+spicy_ital_s,S,Goat Cheese,173.0591346788721
+spicy_ital_s,S,Peperoncini verdi,43.26478366971803
+spicy_ital_s,S,Tomatoes,86.52956733943606
+spin_pesto_l,L,Artichokes,120.75870822800907
+spin_pesto_l,L,Garlic,90.5690311710068
+spin_pesto_l,L,Pesto Sauce,181.1380623420136
+spin_pesto_l,L,Spinach,271.7070935130204
+spin_pesto_l,L,Sun-dried Tomatoes,90.5690311710068
+spin_pesto_l,L,Tomatoes,181.1380623420136
+spin_pesto_m,M,Artichokes,89.93122109233772
+spin_pesto_m,M,Garlic,59.95414739489181
+spin_pesto_m,M,Pesto Sauce,119.90829478978362
+spin_pesto_m,M,Spinach,179.86244218467544
+spin_pesto_m,M,Sun-dried Tomatoes,59.95414739489181
+spin_pesto_m,M,Tomatoes,119.90829478978362
+spin_pesto_s,S,Artichokes,85.89175726076701
+spin_pesto_s,S,Garlic,42.945878630383504
+spin_pesto_s,S,Pesto Sauce,85.89175726076701
+spin_pesto_s,S,Spinach,128.8376358911505
+spin_pesto_s,S,Sun-dried Tomatoes,42.945878630383504
+spin_pesto_s,S,Tomatoes,85.89175726076701
+spinach_fet_l,L,Feta Cheese,378.43398001031005
+spinach_fet_l,L,Garlic,141.91274250386627
+spinach_fet_l,L,Mushrooms,567.6509700154651
+spinach_fet_l,L,Red Onions,567.6509700154651
+spinach_fet_l,L,Spinach,425.7382275115988
+spinach_fet_m,M,Feta Cheese,238.96617614134186
+spinach_fet_m,M,Garlic,119.48308807067093
+spinach_fet_m,M,Mushrooms,477.9323522826837
+spinach_fet_m,M,Red Onions,477.9323522826837
+spinach_fet_m,M,Spinach,358.4492642120128
+spinach_fet_s,S,Feta Cheese,93.33287484523939
+spinach_fet_s,S,Garlic,46.666437422619694
+spinach_fet_s,S,Mushrooms,186.66574969047878
+spinach_fet_s,S,Red Onions,186.66574969047878
+spinach_fet_s,S,Spinach,139.9993122678591
+spinach_supr_l,L,Artichokes,120.33350150889635
+spinach_supr_l,L,Asiago Cheese,180.50025226334452
+spinach_supr_l,L,Garlic,90.25012613167226
+spinach_supr_l,L,Kalamata Olives,90.25012613167226
+spinach_supr_l,L,Pepperoni,361.00050452668904
+spinach_supr_l,L,Red Onions,361.00050452668904
+spinach_supr_l,L,Spinach,270.7503783950168
+spinach_supr_l,L,Tomatoes,180.50025226334452
+spinach_supr_l,S,Artichokes,0.4252067191127079
+spinach_supr_l,S,Asiago Cheese,0.6378100786690619
+spinach_supr_l,S,Garlic,0.31890503933453096
+spinach_supr_l,S,Kalamata Olives,0.31890503933453096
+spinach_supr_l,S,Pepperoni,1.2756201573381238
+spinach_supr_l,S,Red Onions,1.2756201573381238
+spinach_supr_l,S,Spinach,0.9567151180035928
+spinach_supr_l,S,Tomatoes,0.6378100786690619
+spinach_supr_m,M,Artichokes,85.14764550231976
+spinach_supr_m,M,Asiago Cheese,113.53019400309302
+spinach_supr_m,M,Garlic,56.76509700154651
+spinach_supr_m,M,Kalamata Olives,56.76509700154651
+spinach_supr_m,M,Pepperoni,227.06038800618603
+spinach_supr_m,M,Red Onions,227.06038800618603
+spinach_supr_m,M,Spinach,170.29529100463952
+spinach_supr_m,M,Tomatoes,113.53019400309302
+spinach_supr_s,S,Artichokes,84.82874046298522
+spinach_supr_s,S,Asiago Cheese,84.82874046298522
+spinach_supr_s,S,Garlic,42.41437023149261
+spinach_supr_s,S,Kalamata Olives,42.41437023149261
+spinach_supr_s,S,Pepperoni,169.65748092597045
+spinach_supr_s,S,Red Onions,169.65748092597045
+spinach_supr_s,S,Spinach,127.24311069447785
+spinach_supr_s,S,Tomatoes,84.82874046298522
+thai_ckn_l,L,Chicken,4490.182953830195
+thai_ckn_l,L,Pineapple,1347.0548861490586
+thai_ckn_l,L,Red Peppers,449.01829538301956
+thai_ckn_l,L,Thai Sweet Chilli Sauce,898.0365907660391
+thai_ckn_l,L,Tomatoes,898.0365907660391
+thai_ckn_m,M,Chicken,1022.6221594660625
+thai_ckn_m,M,Pineapple,306.7866478398188
+thai_ckn_m,M,Red Peppers,102.26221594660626
+thai_ckn_m,M,Thai Sweet Chilli Sauce,204.52443189321252
+thai_ckn_m,M,Tomatoes,204.52443189321252
+thai_ckn_s,L,Chicken,2.1260335955635394
+thai_ckn_s,L,Pineapple,0.6378100786690619
+thai_ckn_s,L,Red Peppers,0.21260335955635395
+thai_ckn_s,L,Thai Sweet Chilli Sauce,0.4252067191127079
+thai_ckn_s,L,Tomatoes,0.4252067191127079
+thai_ckn_s,S,Chicken,510.24806293524955
+thai_ckn_s,S,Pineapple,153.07441888057485
+thai_ckn_s,S,Red Peppers,51.024806293524954
+thai_ckn_s,S,Thai Sweet Chilli Sauce,102.04961258704991
+thai_ckn_s,S,Tomatoes,102.04961258704991
+the_greek_l,L,Beef Chuck Roast,542.1385668687027
+the_greek_l,L,Feta Cheese,216.85542674748106
+the_greek_l,L,Garlic,81.3207850303054
+the_greek_l,L,Kalamata Olives,81.3207850303054
+the_greek_l,L,Red Onions,325.2831401212216
+the_greek_l,L,Tomatoes,162.6415700606108
+the_greek_m,M,Beef Chuck Roast,418.1908082473483
+the_greek_m,M,Feta Cheese,119.48308807067093
+the_greek_m,M,Garlic,59.741544035335465
+the_greek_m,M,Kalamata Olives,59.741544035335465
+the_greek_m,M,Red Onions,238.96617614134186
+the_greek_m,M,Tomatoes,119.48308807067093
+the_greek_s,S,Beef Chuck Roast,322.0940897278763
+the_greek_s,S,Feta Cheese,64.41881794557526
+the_greek_s,S,Garlic,32.20940897278763
+the_greek_s,S,Kalamata Olives,32.20940897278763
+the_greek_s,S,Red Onions,128.8376358911505
+the_greek_s,S,Tomatoes,64.41881794557526
+the_greek_xl,XL,Beef Chuck Roast,1760.3558171266109
+the_greek_xl,XL,Feta Cheese,704.1423268506444
+the_greek_xl,XL,Garlic,234.71410895021478
+the_greek_xl,XL,Kalamata Olives,234.71410895021478
+the_greek_xl,XL,Red Onions,938.8564358008591
+the_greek_xl,XL,Tomatoes,469.42821790042956
+the_greek_xxl,S,Beef Chuck Roast,4.252067191127079
+the_greek_xxl,S,Feta Cheese,1.7008268764508316
+the_greek_xxl,S,Garlic,0.5315083988908849
+the_greek_xxl,S,Kalamata Olives,0.5315083988908849
+the_greek_xxl,S,Red Onions,2.1260335955635394
+the_greek_xxl,S,Tomatoes,1.0630167977817697
+the_greek_xxl,XXL,Beef Chuck Roast,119.05788135155824
+the_greek_xxl,XXL,Feta Cheese,47.623152540623295
+the_greek_xxl,XXL,Garlic,14.88223516894478
+the_greek_xxl,XXL,Kalamata Olives,14.88223516894478
+the_greek_xxl,XXL,Red Onions,59.52894067577912
+the_greek_xxl,XXL,Tomatoes,29.76447033788956
+veggie_veg_l,L,Garlic,136.17245179584472
+veggie_veg_l,L,Green Peppers,181.56326906112628
+veggie_veg_l,L,Mushrooms,544.6898071833789
+veggie_veg_l,L,Red Onions,544.6898071833789
+veggie_veg_l,L,Red Peppers,136.17245179584472
+veggie_veg_l,L,Spinach,408.51735538753417
+veggie_veg_l,L,Tomatoes,272.34490359168944
+veggie_veg_l,L,Zucchini,272.34490359168944
+veggie_veg_m,M,Garlic,135.00313331828477
+veggie_veg_m,M,Green Peppers,202.50469997742715
+veggie_veg_m,M,Mushrooms,540.0125332731391
+veggie_veg_m,M,Red Onions,540.0125332731391
+veggie_veg_m,M,Red Peppers,135.00313331828477
+veggie_veg_m,M,Spinach,405.0093999548543
+veggie_veg_m,M,Tomatoes,270.00626663656953
+veggie_veg_m,M,Zucchini,270.00626663656953
+veggie_veg_s,S,Garlic,49.32397941707413
+veggie_veg_s,S,Green Peppers,197.2959176682965
+veggie_veg_s,S,Mushrooms,197.2959176682965
+veggie_veg_s,S,Red Onions,197.2959176682965
+veggie_veg_s,S,Red Peppers,49.32397941707413
+veggie_veg_s,S,Spinach,147.97193825122238
+veggie_veg_s,S,Tomatoes,98.64795883414826
+veggie_veg_s,S,Zucchini,98.64795883414826
